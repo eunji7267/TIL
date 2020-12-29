@@ -11,7 +11,11 @@
     origin  https://github.com/eunji7267/TIL.git (push)
      ```
 
-    
+    - `fetch` : 데이터를 받아오는 주소
+
+    - `push` : 데이터를 보내는 주소 (local에서 데이터를 보내는 주소)
+
+      
 
 - `git push (별칭) (브렌치이름)` : `별칭`으로 `브렌치`를 push(전송)
 
