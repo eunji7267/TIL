@@ -6,9 +6,16 @@
 
   - `git remote -v` : 등록된 Remote 주소 확인
 
-    -`git push (파일) (브렌치이름)` :`별칭`으로 `브렌치`를 push(전송)
+     ```bash
+    origin  https://github.com/eunji7267/TIL.git (fetch)
+    origin  https://github.com/eunji7267/TIL.git (push)
+     ```
 
-     
+    
+
+- `git push (별칭) (브렌치이름)` : `별칭`으로 `브렌치`를 push(전송)
+
+  - `git push origin main` : origin으로 main 브랜치를 전송
 
 - `git clone (주소)` : 주소로부터 Repo 가져오기
 
